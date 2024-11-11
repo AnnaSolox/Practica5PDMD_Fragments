@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica5PDMD_Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding2_text">Blow and make bottles!</string>
+    <string name="onboarding2_button">Finish</string>
+    <string name="onboarding1_button">Next</string>
+    <string name="onboarding1_text">Discover the garlic soup!</string>
+    <string name="onboardin2_imageDescription">Onboardin2 image</string>
+    <string name="onboarding1_imageDescription">Onboarding1 image</string>
+    <string name="onboarding0_text">God n\'hi do!</string>
+    <string name="skipText">Skip</string>
+    <string name="onboarding0_button">Start!</string>
+</resources>
